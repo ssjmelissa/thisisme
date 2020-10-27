@@ -9,7 +9,7 @@ Melissa, but you can call me Mel.
 ### What I do. 
 I am a sales development and enterprise business representative here at GitHub <i>(the place to be, if you ask me)</i> looking after APAC/ANZ customers within the corporate, mid-market, enterprise and federal government space. 
 
-### Fun facts:
+### Fun facts.
 <ul>
 
 <li>I am a Golden Retriever mum. Sally will be thrilled she's getting a mention on my profile.</li>
@@ -18,5 +18,4 @@ I am a sales development and enterprise business representative here at GitHub <
 <li> My favourite season of the year is Winter. Snowboarding, hot chocolate, and did I mention... Snowboarding? Need I <i>honestly</i> say more?</li>
 </ul>
 
-<br></br>
 It was a pleasure having you here - hope you enjoyed your stay. Feel free to connect with me on [LinkedIn](http://linkedin.com/in/melissa--sim) 🌐 
