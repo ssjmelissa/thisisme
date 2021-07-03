@@ -12,10 +12,11 @@ I am a sales development and enterprise business representative here at GitHub <
 ### Fun facts.
 <ul>
 
-<li> 🐕 I am a Golden Retriever mum. Sally will be thrilled she's getting a mention on my profile.</li>
+  <li> 🐕 I am a Golden Retriever mum to Sally. The brightest light in my life.</li>
+  <li> 🐱 I am also a Ragdoll-Scottish Fold step-mum to Luna & Apollo.</li>
 <li> 🍵 I am a matcha enthusiast. Matcha everything. You name it, I'll take it.</li>
 <li> 🤸 I do competitive All Star cheerleading. There's just something about being thrown in the air that makes me very happy. 
-<li> 🏂 My favourite season of the year is Winter. Snowboarding, hot chocolate, and did I mention... Snowboarding?</li>
+<li> 🏂 My favourite season of the year is Winter. Snowboarding, hot chocolate, fluffy blankets, and did I mention... Snowboarding?</li>
 </ul>
 
 <br></br>
